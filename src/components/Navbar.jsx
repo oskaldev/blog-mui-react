@@ -41,12 +41,12 @@ const UserBox = styled(Box)(({ theme }) => ({
 }));
 
 export const Navbar = () => {
-  const [open, setOpen, setClose] = useState(false);
+  const [open, setOpen] = useState(false);
   return (
     <AppBar position="sticky">
       <StyledToolBar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          Lava dev
+          OSKALDEV
         </Typography>
         <Pets sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
