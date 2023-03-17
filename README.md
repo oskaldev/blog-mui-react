@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# blog-mui-react
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/oskaldev/random-colors#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+</p>
+
+**blog-mui-react** - не большой веб сайт сделанный на Material UI 5 (MUI) | React/JS
+> <img src="https://user-images.githubusercontent.com/67880047/225936495-82e1828f-1ed0-44f5-94c2-dae25c5b1a02.png" width=50% height=50%>
+> <img src="https://user-images.githubusercontent.com/67880047/225936526-dcd90513-28f3-4c12-b864-2ebaa252febc.png" width=50% height=50%>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
