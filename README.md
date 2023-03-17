@@ -8,6 +8,7 @@
 
 **blog-mui-react** - не большой веб сайт сделанный на Material UI 5 (MUI) | React/JS
 > <img src="https://user-images.githubusercontent.com/67880047/225936495-82e1828f-1ed0-44f5-94c2-dae25c5b1a02.png" width=50% height=50%>
+
 > <img src="https://user-images.githubusercontent.com/67880047/225936526-dcd90513-28f3-4c12-b864-2ebaa252febc.png" width=50% height=50%>
 
 
